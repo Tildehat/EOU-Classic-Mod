@@ -2,7 +2,7 @@
  Allows the creation of Gunner and Highlander classes in classic mode and allows traversal through Gladsheim 
 
 
-This only works on the North American version of EOU
+This is available for the North American and European version of EOU
 
 This mod allows you to create Highlanders and Gunners in EOU without the need of reclassing. This also allows access to Gladsheim in Classic mode.
 
